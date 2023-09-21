@@ -1,2 +1,7 @@
 Dataset used : https://www.kaggle.com/datasets/rajanand/crime-in-india
 
+The dataset chosen is extremely varied and hence extensive EDA has been performed, as it is predominantly a data analysis oriented dataset.
+Predictive analysis has been performed on a selected dataset(IPC).
+The EDA includes analysis of crimes against women of SC and ST, Crimes against Children, General IPC dataset.
+
+
